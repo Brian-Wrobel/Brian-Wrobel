@@ -7,7 +7,9 @@
 ## 🛡️ Certifications
 - **CompTIA Security+**
 - **CompTIA Network+**
+- **CompTIA Project+**
 - **CompTIA A+**
+- **LPI Linux Essentials**
 - **ITIL v4 Foundation**
 - **Computer Support Technician**
 
